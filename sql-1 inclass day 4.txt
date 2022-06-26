@@ -1,0 +1,60 @@
+# Question 1:
+# 1) Print customer Id, customer name and average account_balance maintained by each customer for all 
+# of his/her accounts in the bank.
+
+
+# Question 2:
+# 2) Print customer_id , account_number and balance_amount for all the accounts.
+# for account_type = "Credit Card" apply the condition that if balance_amount is nil then assign transaction_amount  
+
+
+# Question 3:
+# 3) Print account_number and balance_amount , transaction_amount,Transaction_Date from Bank_Account_Details and 
+# bank_account_transaction for all the transactions occurred during march,2020 and april, 2020
+
+
+# Question 4:
+# 4) Print the customer ids, account_number, balance_amount,transaction_amount ,transaction_date who did transactions 
+# during the first quarter. Do not display the accounts if they have not done any transactions in the first quarter.
+
+
+# Question 5:
+# 5) Print account_number, Event and Customer_message from BANK_CUSTOMER_MESSAGES and Bank_Account_Details to 
+# display an “Adhoc" Event for all customers who have  “SAVINGS" account_type account.
+
+
+# Question 6:
+# a) Display records of All Accounts , their Account_types, the balance amount.
+# b) Along with first step, Display other columns with corresponding linking account number, account types
+
+
+# Question 7:
+# a) Display records of All Accounts , their Account_types, the balance amount.
+# b) Along with first step, Display other columns with corresponding linking account number, account types 
+# c) After retrieving all records of accounts and their linked accounts, display the  
+# transaction amount of accounts appeared  in another column.
+
+
+# Question 8:
+# 8) Display all type of "Credit cards"  accounts including "Add-on Credit Cards" 
+# type accounts with their respective aggregate sum of transaction amount.
+
+# Ref: Check Bank_Account_Details_table for all types of credit card.
+        # Check transaction_amount in bank_account_transaction. 
+
+
+# Question 9:
+# 9) Display “SAVINGS” accounts and their corresponding aggregate sum of transaction amount 
+# of all recurring deposits
+
+
+# Question 10:
+# 10) Display every account's total no of transactions for every year and each month.
+ 
+
+# Question 11:
+# 11) Display savings accounts and its corresponding Recurring deposits transactions that are more than 4 times.
+
+
+# Question 12:
+# 12) Find the no. of transactions of credit cards including add-on Credit Cards
